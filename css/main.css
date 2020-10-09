@@ -1,0 +1,25 @@
+div 
+{
+width: 100px;
+height: 100px;
+color: purple;
+background-color: salmon;
+
+padding: 15px;
+margin-bottom: 20px;
+border: 10px solid palevioletred;
+border-radius: 10px;
+}
+
+div.bg-black
+{
+background-color: white;
+}
+
+.bg-white
+{
+    background-color: teal;
+}
+
+
+
